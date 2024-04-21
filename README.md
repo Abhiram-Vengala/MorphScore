@@ -5,12 +5,12 @@ This project demonstrates a basic Hardhat use case. It comes with a sample contr
 Step to use the MoprhScore app .
 1. Clone the repository and install the dependencies
 2. Create a .env file with the following code
------```shell
+-----```
    PRIVATE_KEY = "paste your wallet MorphTestnet  address  private key "
    MORPH_TESTNET_URL = "https://rpc-testnet.morphl2.io"
 -----```
 3. Now open the terminal , compile the contract and deploy the contracts to morphTestnet .
------```shell
+-----```
    npm run compile
    npm run deploy:morphTestnet
 -----```
