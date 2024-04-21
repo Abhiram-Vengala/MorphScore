@@ -1,0 +1,109 @@
+.nav{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    height: 70px;
+    border-bottom: 1px solid;
+}
+.nav span{
+    margin-right: 50px;
+    margin-left: 30px;
+}
+#name{
+    margin-left: 700px;
+    font-weight: bold;
+    font-size: 1.2em;
+}
+#logo{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: bolder;
+    font-size: 1.8em;
+    color: rgb(62, 171, 62);
+}
+#score{
+    font-weight: bold;
+    font-size: 1.2em;
+}
+.regis{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-top: 70px;
+    margin-left: 50px;
+    margin-right: 70px;
+}
+#heading{
+    margin-bottom: 20px;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-weight: bold;
+    font-size: 2em;
+    color: rgb(62, 171, 62);
+}
+#label{
+    font-weight: bold;
+    font-size: 1.5em;
+    margin-right:30px;
+}
+#inputlabel{
+    width: 350px;
+    height: 20px;
+}
+#bttn{
+    width: 200px;
+    height: 40px;
+    margin-top: 20px;
+    background-color: rgb(62, 171, 62);
+    border: none;
+    border-radius: 0.5em;
+    color: white;
+    font-size: 1.1em;
+}
+#para{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 1.1em;
+    font-weight: lighter;
+}
+#secondHead{
+    margin-top: 40px;
+    margin-bottom: 20px;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-weight: bold;
+    font-size: 2em;
+    color: rgb(62, 171, 62);
+}
+#inputlabel1{
+    width: 350px;
+    height: 30px;
+    margin-bottom: 30px; 
+    margin-right: 10px;
+}
+#h1{
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-weight: bold;
+    font-size: 2em;
+    color: rgb(62, 171, 62);   
+}
+.nft{
+    margin-top: 10px;
+    width: 370px;
+    height: 450px;
+    margin-left: 10px;
+    margin-bottom: 20px;
+    border-radius: 1em;
+    box-shadow: 5px 5px 3px 5px  rgb(168, 168, 168);
+}
+#img{
+    width: 300px;
+    height: 300px;
+    margin-top: 20px;
+}
+#nftname{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: bold;
+}
+#nftdesc{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: bold;
+    margin-left: 20px;
+    margin-right: 40px;
+}
